@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## ScreenShot
 <hr>
-<img style:"width:80%"src="https://github.com/cr1stian/SearchQuery-Angular/blob/master/screenshot.png?raw=true">
+<img src="https://github.com/cr1stian/SearchQuery-Angular/blob/master/screenshot.png?raw=true">
